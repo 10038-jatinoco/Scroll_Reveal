@@ -1,0 +1,148 @@
+body {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.navbar-brand {
+  font-size: 20px;
+  color: #000;
+  font-weight: bold;
+}
+
+#testimonial {
+  background: #f1f1f1;
+  padding: 50px 0 30px 0;
+  text-align:center;
+  margin-top: 40px;
+}
+
+footer {
+  background: url(../img/imagen3.jpg);
+
+}
+
+.pregunta{
+  margin-top: 40px;
+}
+.header-content-left {
+  margin-top: 60px; /* Ajusta el valor según sea necesario para obtener el espacio deseado */
+}
+
+/* Estilos adicionales */
+
+/* Estilo de la sección de testimonios */
+#testimonial p.h2 {
+  font-size: 24px;
+  color: #333;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+#testimonial p.h4 {
+  font-size: 18px;
+  color: #777;
+}
+
+/* Estilo de la sección de información uno */
+#info-one h2 {
+  font-size: 28px;
+  color: #333;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+#info-one p {
+  font-size: 16px;
+  color: #555;
+}
+
+/* Estilo de la sección de información dos */
+#info-two h2 {
+  font-size: 24px;
+  color: #333;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+#info-two p {
+  font-size: 16px;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+/* Estilo del footer */
+footer {
+  padding: 50px 0;
+  text-align: center;
+  color: #000;
+  background-color: #fff;
+}
+
+footer h3 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+footer p {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+/* Estilo del formulario en el footer */
+footer form.card {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  border-radius: 5px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+footer .form-group {
+  margin-bottom: 20px;
+}
+
+footer .form-control {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 3px;
+  background-color: #f1f1f1;
+  color: #333;
+}
+
+footer .form-control:focus {
+  outline: none;
+  background-color: #fff;
+}
+
+footer textarea.form-control {
+  resize: vertical;
+}
+
+footer .btn-block {
+  width: 100%;
+}
+
+footer .btn-outline-secondary {
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 3px;
+  padding: 10px 20px;
+  transition: background-color 0.3s ease;
+}
+
+footer .btn-outline-secondary:hover {
+  background-color: #0056b3;
+}
+
+footer .btn-outline-secondary:focus {
+  outline: none;
+  background-color: #0056b3;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+}
+
+footer .btn-outline-secondary:active {
+  background-color: #003080;
+}
+
